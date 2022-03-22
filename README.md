@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<p align="center">
+  <img src="https://github.com/zakalt/zakalt/blob/main/github.gif" width=200>
+    <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakalt&&theme=dark&layout=compact">
+  <br>
+</p>
 <!--
 **zakalt/zakalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
