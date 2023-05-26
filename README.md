@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Kooneo/Kooneo/blob/main/github.gif" width=200>
     <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakalt&&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooneo&&theme=dark&layout=compact">
   <br>
 </p>
 <!--
