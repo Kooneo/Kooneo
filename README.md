@@ -1,8 +1,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
-***I'm Kooneo.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Kooneo.
 
 - 💬 Ask me about [Laravel](https://laravel.com/) and [php](https://www.php.net/) and [python](https://www.python.org/)!
 
