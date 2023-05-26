@@ -1,12 +1,8 @@
-### Hi there 👋
-<p align="center">
-  <img src="https://github.com/Kooneo/Kooneo/blob/main/github.gif" width=200>
-    <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooneo&&theme=dark&layout=compact">
-  <br>
-</p>
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Kooneo](https://www.linkedin.com/in/Kooneo).
+
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+***I'm Kooneo.
 
 - 💬 Ask me about [Laravel](https://laravel.com/) and [php](https://www.php.net/) and [python](https://www.python.org/)!
 
@@ -44,6 +40,11 @@
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&show_icons=true&theme=gotham" alt="Kooneo" />
+ <p align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooneo&&theme=dark&layout=compact">
+  <br>
+</p>
   
 ![Snake animation](https://github.com/Kooneo/Kooneo/blob/main/github-contribution-grid-snake.svg)
   
