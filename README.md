@@ -45,7 +45,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&show_icons=true&theme=gotham" alt="Kooneo" />
   
-![Snake animation](https://github.com/kooneo/kooneo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kooneo/kooneo/github-contribution-grid-snake.svg)
   
   
 - I can do this `All day` 😈
