@@ -34,7 +34,8 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&show_icons=true&theme=gotham" alt="Kooneo" />
+<p align="center"> 
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&show_icons=true&theme=gotham" alt="Kooneo" /> -->
  <p align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooneo&&theme=dark&layout=compact">
