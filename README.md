@@ -42,8 +42,7 @@
   <br>
 </p>
   
-![Snake animation](https://github.com/Kooneo/Kooneo/blob/main/github-contribution-grid-snake.svg)
-  
+<img src="https://raw.githubusercontent.com/Kooneo/Kooneo/output/snake.svg" alt="Snake animation" />
   
 - I can do this `All day` 😈
 <img src="https://raw.githubusercontent.com/kooneo/kooneo/main/dbzgoku.gif" object-fit="contain" align="right" width="100%" >
