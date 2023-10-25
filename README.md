@@ -1,6 +1,12 @@
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Kooneo.
 
+
+
+- 💬 Ask me about [Laravel](https://laravel.com/) and [php](https://www.php.net/)!
+
+###
+
 📈 my Github stats
 
 <p align="center"> 
@@ -8,18 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooneo&&theme=dark&layout=compact">
   <br>
 </p>
-###
-
-- 💬 Ask me about [Laravel](https://laravel.com/) and [php](https://www.php.net/) and [python](https://www.python.org/)!
 
 ###
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kooneo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 **languages and tools:**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
