@@ -78,7 +78,7 @@
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kooneo/Kooneo/main/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kooneo/Kooneo/main/snake.svg" alt="Snake animation" />
 
 ###
 
