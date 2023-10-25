@@ -32,7 +32,7 @@
 
 
 
-📈 my github stats
+📈 my Github stats
 
 <p align="center"> 
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&show_icons=true&theme=gotham" alt="Kooneo" /> -->
@@ -43,6 +43,7 @@
 </p>
   
 <img src="https://raw.githubusercontent.com/Kooneo/Kooneo/output/snake.svg" alt="Snake animation" />
-  
+
+###
 - I can do this `All day` 😈
 <img src="https://raw.githubusercontent.com/kooneo/kooneo/main/dbzgoku.gif" object-fit="contain" align="right" width="100%" >
