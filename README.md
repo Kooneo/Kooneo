@@ -1,58 +1,52 @@
-
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Kooneo.
-
-
-
-- 💬 Ask me about [Laravel](https://laravel.com/) and [php](https://www.php.net/)!
-
-###
-
-📈 my Github stats
-
-<p align="center"> 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooneo&&theme=dark&layout=compact">
-  <br>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF0000&center=true&vCenter=true&width=800&lines=⚡+Kooneo;System+Programmer+%7C+Game+Dev+%7C+iOS+Builder;C+%7C+C%2B%2B+%7C+Swift+%7C+Laravel+%7C+Unreal;Always+Building+Something+Insane+🔥" alt="Typing SVG" />
 </p>
 
-###
+---
 
-**languages and tools:**  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> **Yo! I'm Kooneo**
 
+- 🧠 Grinding at **1337 (42 Network)**
+- 🖥 System-level dev (C / C++) who actually _enjoys_ debugging segfaults
+- 🎮 Building **real-time systems & multiplayer games** with Unreal Engine
+- 📱 Dropping sleek **iOS apps** with SwiftUI
+- 🔥 Running backends with **Laravel + Next.js**
+- 🧩 Obsessed with encryption, problem-solving & bending computers to my will
 
-###
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/Kooneo/Kooneo/main/snake.svg" alt="Snake animation" />
+📊 **Stats that Flex**
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kooneo&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooneo&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-- I can do this `All day` 😈
-<img src="https://raw.githubusercontent.com/kooneo/kooneo/main/dbzgoku.gif" object-fit="contain" align="right" width="100%" >
+---
 
-###
+🛠️ **My Arsenal**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,swift,php,laravel,react,nextjs,js,ts,html,css,python,java,mysql,unity,unreal,cs,androidstudio,git,linux" />
+</p>
+
+---
+
+🐍 **Contribution Snake**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kooneo/Kooneo/main/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+🔥 **Philosophy**
+
+> I don’t just code, I **engineer chaos into structure**.  
+> If it runs fast, scales hard, and looks sick — I’m in.
+
+---
+
+<img src="https://raw.githubusercontent.com/kooneo/kooneo/main/dbzgoku.gif" align="center" width="100%"/>
