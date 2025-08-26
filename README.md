@@ -5,19 +5,17 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> **Yo! I'm Kooneo**
-
-- 🧠 Grinding at **1337 (42 Network)**
-- 🖥 System-level dev (C / C++) who actually _enjoys_ debugging segfaults
-- 🎮 Building **real-time systems & multiplayer games** with Unreal Engine
-- 📱 Dropping sleek **iOS apps** with SwiftUI
-- 🔥 Running backends with **Laravel + Next.js**
-- 🧩 Obsessed with encryption, problem-solving & bending computers to my will
+### 👋 About Me
+- 🎓 Student at **1337 (42 Network)**
+- 🖥 **System-level developer** (C / C++)  
+- 🎮 Focused on **real-time systems & multiplayer games** (Unreal Engine)  
+- 📱 Building sleek **iOS apps** with SwiftUI  
+- 🔥 Running **scalable backends** with Laravel & Next.js  
+- 🧩 Passionate about **encryption, problem-solving, and system design**  
 
 ---
 
-📊 **Stats that Flex**
-
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kooneo&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -26,27 +24,20 @@
 
 ---
 
-🛠️ **My Arsenal**
-
+### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,swift,php,laravel,react,nextjs,js,ts,html,css,python,java,mysql,unity,unreal,cs,androidstudio,git,linux" />
 </p>
 
 ---
 
-🐍 **Contribution Snake**
-
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kooneo/Kooneo/main/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-🔥 **Philosophy**
-
-> I don’t just code, I **engineer chaos into structure**.  
-> If it runs fast, scales hard, and looks sick — I’m in.
-
----
-
-<img src="https://raw.githubusercontent.com/kooneo/kooneo/main/dbzgoku.gif" align="center" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kooneo/kooneo/main/dbzgoku.gif" width="100%"/>
+</p>
