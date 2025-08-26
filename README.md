@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=⚡+Hey,
-I'm+Kooneo;System+Programmer+%7C+Game+Developer+%7C+iOS+Engineer;Always+Building+Something+Insane+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF0000&center=true&vCenter=true&width=800&lines=⚡+Kooneo;System+Programmer+%7C+Game+Dev+%7C+iOS+Builder;C+%7C+C%2B%2B+%7C+Swift+%7C+Laravel+%7C+Unreal;Always+Building+Something+Insane+🔥" alt="Typing SVG" />
 </p>
 
 ---
