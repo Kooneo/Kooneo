@@ -6,18 +6,20 @@
 ---
 
 ### 👋 About Me
+
 - 🎓 Student at **1337 (42 Network)**
-- 🖥 **System-level developer** (C / C++)  
-- 🎮 Focused on **real-time systems & multiplayer games** (Unreal Engine)  
-- 📱 Building sleek **iOS apps** with SwiftUI  
-- 🔥 Running **scalable backends** with Laravel & Next.js  
-- 🧩 Passionate about **encryption, problem-solving, and system design**  
+- 🖥 **System-level developer** (C / C++)
+- 🎮 Focused on **real-time systems & multiplayer games** (Unreal Engine)
+- 📱 Building sleek **iOS apps** with SwiftUI
+- 🔥 Running **scalable backends** with Laravel & Next.js
+- 🧩 Passionate about **encryption, problem-solving, and system design**
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kooneo&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Kooneo&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooneo&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
@@ -25,6 +27,7 @@
 ---
 
 ### 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,swift,php,laravel,react,nextjs,js,ts,html,css,python,java,mysql,unity,unreal,cs,androidstudio,git,linux" />
 </p>
@@ -32,6 +35,7 @@
 ---
 
 ### 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kooneo/Kooneo/main/snake.svg" alt="Snake animation"/>
 </p>
