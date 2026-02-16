@@ -1,15 +1,35 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF0000&center=true&vCenter=true&width=800&lines=⚡+Kooneo;System+Programmer+%7C+Game+Dev+%7C+iOS+Builder;C+%7C+C%2B%2B+%7C+Swift+%7C+Laravel+%7C+Unreal;Always+Building+Something+Insane+🔥" alt="Typing SVG" />
-</p>
+```cpp
+#include <iostream>
+#include <string>
 
----
+class Developer {
+private:
+    std::string name = "Zakaria Bakour";
+    std::string location = "Morocco";
+    std::string school = "1337 Coding School";
 
-### 👋 About Me
+public:
+    void getSkills() {
+        std::cout << "-> Languages: C, C++, PHP" << std::endl;
+        std::cout << "-> Web Backend: Laravel (SaaS & API Architecture)" << std::endl;
+        std::cout << "-> Systems & Visuals: Graphics Programming, Low-level scripting" << std::endl;
+    }
 
-I'm a passionate and driven student at **1337 (42 Network)** with a strong focus on system-level development and real-time applications. My expertise lies in building robust and performant systems, from high-performance multiplayer games to sleek and intuitive iOS applications using **SwiftUI**.
+    void getCurrentFocus() {
+        std::cout << "-> Architecting and scaling robust web applications using Laravel." << std::endl;
+        std::cout << "-> Diving deep into C/C++ for high-performance graphics rendering." << std::endl;
+        std::cout << "-> Writing clean, explicit code from the backend all the way down to the metal." << std::endl;
+    }
+};
 
-I'm also adept at crafting scalable backend solutions with **Laravel** and **Next.js**. My core interests include encryption, complex problem-solving, and innovative system design. I'm constantly exploring new technologies and pushing the boundaries of what's possible in software engineering.
+int main() {
+    Developer me;
+    me.getSkills();
+    me.getCurrentFocus();
+    return 0;
+}
+
+```
 
 ---
 
@@ -26,8 +46,7 @@ I'm also adept at crafting scalable backend solutions with **Laravel** and **Nex
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kooneo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kooneo&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
   <img src="https://streak-stats.demolab.com?user=Kooneo&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
